@@ -1,4 +1,11 @@
-### Hi there 👋
+### Github Profile
+
+<a href="https://github.com/zuramai">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ibnudirsan&count_private=true&show_icons=true&theme=chartreuse-dark" />
+</a>
+<a href="https://github.com/zuramai">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnudirsan&layout=compact&theme=chartreuse-dark&langs_count=8" />
+</a>
 
 <!--
 **ibnudirsan/ibnudirsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

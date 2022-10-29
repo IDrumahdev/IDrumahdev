@@ -1,4 +1,4 @@
-### Github Profile
+### Github Activity
 
 <a href="https://github.com/zuramai">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ibnudirsan&count_private=true&show_icons=true&theme=chartreuse-dark" />

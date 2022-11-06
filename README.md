@@ -18,11 +18,17 @@
 </a>
 
 ## Github Activity :
-<a href="http://www.github.com/ibnudirsan"><img src="https://activity-graph.herokuapp.com/graph?username=ibnudirsan&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/ibnudirsan"><img src="https://activity-graph.herokuapp.com/graph?username=ibnudirsan&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+</a>
 
 <a href="https://github.com/ibnudirsan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ibnudirsan&count_private=true&show_icons=true&theme=chartreuse-dark" />
 </a>
+
 <a href="https://github.com/ibnudirsan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnudirsan&layout=compact&theme=chartreuse-dark&langs_count=8" />
 </a>
+
+## Wakatime :
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=ibnudirsan&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)

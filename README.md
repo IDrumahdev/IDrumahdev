@@ -1,9 +1,10 @@
 ### Github Activity
+<a href="http://www.github.com/ibnudirsan"><img src="https://activity-graph.herokuapp.com/graph?username=ibnudirsan&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/zuramai">
+<a href="https://github.com/ibnudirsan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ibnudirsan&count_private=true&show_icons=true&theme=chartreuse-dark" />
 </a>
-<a href="https://github.com/zuramai">
+<a href="https://github.com/ibnudirsan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnudirsan&layout=compact&theme=chartreuse-dark&langs_count=8" />
 </a>
 

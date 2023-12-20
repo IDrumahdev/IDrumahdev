@@ -7,6 +7,9 @@
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
     <img src="https://img.shields.io/npm/v/npm.svg?logo=nodedotjs" />
 </p>
+<p>
+     Donation : <br> <a target="_blank" href="https://saweria.co/ruangdev" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/free-e-wallet-4292583-3557281.png?f=webp&w=256" width="50" alt="Laravel Logo"></a>
+</p>
 
 ## Pin Repository :
 <a href="https://github.com/IDrumahdev/Starter-Kit-Laravel-9">
